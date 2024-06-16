@@ -1,5 +1,8 @@
 # **Serverless LLM Apps Amazon Bedrock**
 
-![](https://images.app.goo.gl/K22JQwRyJSfHDbVVA)
+**What is Amazon Bedrock?**
 
-![](https://www.google.com/search?client=ms-android-samsung-gj-rev1&sca_esv=0c5da0aed5361625&sca_upv=1&sxsrf=ADLYWIL-aqAupFOBNZUKWHEGijBDHz8csA:1718520928854&q=Serverless+LLM+Apps+Amazon+Bedrock&tbm=isch&source=lnms&fbs=AEQNm0Bqzy2A7JdsZg3J6bXbexmPsgjtQvlWZL7ndTLwEpr_IW9DW0gpDTlsyp82QhSGZwv6rZNsjeNjGHrryK8Xeol_KXyoH3Dsd3VPOuMtP9w8HA93nE-31o6VmlSmIKPVEokfM7vtb4pyukiQDt6Cp_mEAAMCBM46do1OVZ2RxweoyvYt4Y97Plghy6kHrjBH08sp16QI&sa=X&ved=2ahUKEwiKjIOsxd-GAxUXTGwGHWTNDyQQ0pQJegQIDhAB&biw=412&bih=670&dpr=1.75#imgrc=Yuy9yJ6ZGu9aUM)
+Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon through a single API, along with a broad set of capabilities you need to build generative AI applications with security, privacy, and responsible AI. Using Amazon Bedrock, you can easily experiment with and evaluate top FMs for your use case, privately customize them with your data using techniques such as fine-tuning and Retrieval Augmented Generation (RAG), and build agents that execute tasks using your enterprise systems and data sources. Since Amazon Bedrock is serverless, you don't have to manage any infrastructure, and you can securely integrate and deploy generative AI capabilities into your applications using the AWS services you are already familiar with.
+
+
+With Amazon Bedrock, you can privately customize FMs, retaining control over how your data is used and encrypted. Amazon Bedrock makes a separate copy of the base FM and trains this private copy of the model. Your data including prompts, information used to supplement a prompt, and FM responses.
