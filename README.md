@@ -1,6 +1,6 @@
 # **Serverless LLM Apps Amazon Bedrock**
 
-[](https://learn.deeplearning.ai/accomplishments/457ee68d-07ff-49d4-b6d7-aca47e25baf1?usp=sharing)
+[Complete](https://learn.deeplearning.ai/accomplishments/457ee68d-07ff-49d4-b6d7-aca47e25baf1?usp=sharing)
 
 **What is Amazon Bedrock?**
 
